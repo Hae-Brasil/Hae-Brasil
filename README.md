@@ -19,7 +19,7 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br>
 
-<h1>Quem sou</h1>
+<h1>Quem sou?</h1>
 <p>Me chamo Matheus Santana, fundador da comunidade de tecnologia HAE, onde discutimos e aprimoramos nossos conhecimentos.</p>
 <ul>Graduando em Análise e Desenvolvimento de Sistemas - Universidade Salvador - Unifacs<br>
 Graduando em Defesa Cibernética - Universidade Estácio de Sá</ul>
