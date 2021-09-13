@@ -1,6 +1,6 @@
 ### Olá. Bem vindo ao repositório oficial da comunidade! 🇧🇷
 ![Hae-Brasil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hae-brasil&show_icons=true&theme=radical)
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hae-brasil&langs_count=8)](https://github.com/hae-brasil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hae-brasil&langs_count=8)](https://github.com/hae-brasil/github-readme-stats)
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/nivelexpert)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/haehazardoushacking)
